@@ -1,7 +1,6 @@
 # SPDX-License-Identifier: MIT
 ---
 galaxy_info:
-  standalone: true
   role_name: debian_updates
   author: TheWolfPaws
   description: Upgrade Debian packages and reboot the system when required.
